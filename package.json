@@ -1,0 +1,24 @@
+{
+  "name": "hookscord.js",
+  "version": "1.0.0",
+  "description": "Hookscord package connected to the Hookscord app",
+  "main": "pack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bulcanolol/Hookscord.js.git"
+  },
+  "author": "bulcane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bulcanolol/Hookscord.js/issues"
+  },
+  "homepage": "https://github.com/Bulcanolol/Hookscord.js#readme",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "fs": "^0.0.1-security",
+    "request": "^2.88.2"
+  }
+}
